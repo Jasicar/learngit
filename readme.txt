@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git fix files once.
 Creating a new branch is quick and simple.
+Add one file.
